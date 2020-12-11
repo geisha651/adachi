@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/adachi/static/css/main.02ce0e8b.chunk.css",
-    "main.js": "/adachi/static/js/main.ef7ba79e.chunk.js",
-    "main.js.map": "/adachi/static/js/main.ef7ba79e.chunk.js.map",
+    "main.css": "/adachi/static/css/main.98ce2c93.chunk.css",
+    "main.js": "/adachi/static/js/main.63f78d42.chunk.js",
+    "main.js.map": "/adachi/static/js/main.63f78d42.chunk.js.map",
     "runtime-main.js": "/adachi/static/js/runtime-main.ae5d42be.js",
     "runtime-main.js.map": "/adachi/static/js/runtime-main.ae5d42be.js.map",
     "static/js/2.5e0191d4.chunk.js": "/adachi/static/js/2.5e0191d4.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.c6d5fdc7.chunk.js": "/adachi/static/js/3.c6d5fdc7.chunk.js",
     "static/js/3.c6d5fdc7.chunk.js.map": "/adachi/static/js/3.c6d5fdc7.chunk.js.map",
     "index.html": "/adachi/index.html",
-    "static/css/main.02ce0e8b.chunk.css.map": "/adachi/static/css/main.02ce0e8b.chunk.css.map",
+    "static/css/main.98ce2c93.chunk.css.map": "/adachi/static/css/main.98ce2c93.chunk.css.map",
     "static/js/2.5e0191d4.chunk.js.LICENSE.txt": "/adachi/static/js/2.5e0191d4.chunk.js.LICENSE.txt",
     "static/media/CSimulator.4f3bbaaf.png": "/adachi/static/media/CSimulator.4f3bbaaf.png",
     "static/media/DaniellCell.7e7c9dad.png": "/adachi/static/media/DaniellCell.7e7c9dad.png",
@@ -62,7 +62,7 @@
   "entrypoints": [
     "static/js/runtime-main.ae5d42be.js",
     "static/js/2.5e0191d4.chunk.js",
-    "static/css/main.02ce0e8b.chunk.css",
-    "static/js/main.ef7ba79e.chunk.js"
+    "static/css/main.98ce2c93.chunk.css",
+    "static/js/main.63f78d42.chunk.js"
   ]
 }
