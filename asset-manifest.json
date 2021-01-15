@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/adachi/static/css/main.2b0163eb.chunk.css",
-    "main.js": "/adachi/static/js/main.b49a1178.chunk.js",
-    "main.js.map": "/adachi/static/js/main.b49a1178.chunk.js.map",
+    "main.js": "/adachi/static/js/main.7a4716c3.chunk.js",
+    "main.js.map": "/adachi/static/js/main.7a4716c3.chunk.js.map",
     "runtime-main.js": "/adachi/static/js/runtime-main.ae5d42be.js",
     "runtime-main.js.map": "/adachi/static/js/runtime-main.ae5d42be.js.map",
     "static/js/2.5e0191d4.chunk.js": "/adachi/static/js/2.5e0191d4.chunk.js",
@@ -16,6 +16,7 @@
     "static/media/DaniellCell.7e7c9dad.png": "/adachi/static/media/DaniellCell.7e7c9dad.png",
     "static/media/ElectronicWork.ead3310f.jpg": "/adachi/static/media/ElectronicWork.ead3310f.jpg",
     "static/media/FlameReaction.a6355754.png": "/adachi/static/media/FlameReaction.a6355754.png",
+    "static/media/Macintosh.4a8afa38.jpg": "/adachi/static/media/Macintosh.4a8afa38.jpg",
     "static/media/PurpleCabbage.3203603f.png": "/adachi/static/media/PurpleCabbage.3203603f.png",
     "static/media/app.d192494c.svg": "/adachi/static/media/app.d192494c.svg",
     "static/media/apple.348e84b8.svg": "/adachi/static/media/apple.348e84b8.svg",
@@ -75,6 +76,6 @@
     "static/js/runtime-main.ae5d42be.js",
     "static/js/2.5e0191d4.chunk.js",
     "static/css/main.2b0163eb.chunk.css",
-    "static/js/main.b49a1178.chunk.js"
+    "static/js/main.7a4716c3.chunk.js"
   ]
 }
