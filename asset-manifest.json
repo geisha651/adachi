@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/adachi/static/css/main.2b0163eb.chunk.css",
-    "main.js": "/adachi/static/js/main.4d5e877a.chunk.js",
-    "main.js.map": "/adachi/static/js/main.4d5e877a.chunk.js.map",
+    "main.js": "/adachi/static/js/main.af205d71.chunk.js",
+    "main.js.map": "/adachi/static/js/main.af205d71.chunk.js.map",
     "runtime-main.js": "/adachi/static/js/runtime-main.ae5d42be.js",
     "runtime-main.js.map": "/adachi/static/js/runtime-main.ae5d42be.js.map",
     "static/js/2.5e0191d4.chunk.js": "/adachi/static/js/2.5e0191d4.chunk.js",
@@ -57,6 +57,7 @@
     "static/media/friend_2.75aa429e.jpg": "/adachi/static/media/friend_2.75aa429e.jpg",
     "static/media/friend_20.6179c48c.jpg": "/adachi/static/media/friend_20.6179c48c.jpg",
     "static/media/friend_21.63f933c3.jpg": "/adachi/static/media/friend_21.63f933c3.jpg",
+    "static/media/friend_22.a74a7f11.jpg": "/adachi/static/media/friend_22.a74a7f11.jpg",
     "static/media/friend_3.368cfda4.jpg": "/adachi/static/media/friend_3.368cfda4.jpg",
     "static/media/friend_4.4e0fa72d.jpg": "/adachi/static/media/friend_4.4e0fa72d.jpg",
     "static/media/friend_5.bde72fd2.jpg": "/adachi/static/media/friend_5.bde72fd2.jpg",
@@ -108,6 +109,6 @@
     "static/js/runtime-main.ae5d42be.js",
     "static/js/2.5e0191d4.chunk.js",
     "static/css/main.2b0163eb.chunk.css",
-    "static/js/main.4d5e877a.chunk.js"
+    "static/js/main.af205d71.chunk.js"
   ]
 }
